@@ -48,7 +48,7 @@ Open index.html in your browser
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/sauravhathi/kids-gifts-suggester/blob/master/LICENCE)
 
 ## Acknowledgements
 
