@@ -4,7 +4,7 @@ A simple web app to suggest gifts for kids based on their age and gender.
 
 ## Demo
 
-[https://sauravhathi.github.io/kids-gifts-suggester/](https://sauravhathi.github.io/kids-gifts-suggester/)
+## [https://sauravhathi.github.io/kids-gifts-suggester/](https://sauravhathi.github.io/kids-gifts-suggester/)
 
 ![image](https://user-images.githubusercontent.com/61316762/196774128-e1c7979e-4d7e-476a-ac46-e785e7a4730e.png)
 ![image](https://user-images.githubusercontent.com/61316762/196774075-be347df7-a77a-4721-b6d2-c963321145c8.png)
@@ -48,7 +48,7 @@ Open index.html in your browser
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/sauravhathi/kids-gifts-suggester/blob/master/LICENCE)
 
 ## Acknowledgements
 
