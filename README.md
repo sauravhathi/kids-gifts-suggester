@@ -52,4 +52,4 @@ Open index.html in your browser
 
 ## Acknowledgements
 
-- [https://www.freepik.com/free-photo/mother-with-daughter-holding-christmas-present-christmas-tree_1303-30313](https://www.freepik.com/free-photo/mother-with-daughter-holding-christmas-present-christmas-tree_1303-30313)
+- [https://www.freepik.com/free-photo/mother-with-daughter-holding-christmas-present-christmas-tree_21934621.htm#query=kids%20gift&position=22&from_view=search&track=sph](https://www.freepik.com/free-photo/mother-with-daughter-holding-christmas-present-christmas-tree_21934621.htm#query=kids%20gift&position=22&from_view=search&track=sph)
